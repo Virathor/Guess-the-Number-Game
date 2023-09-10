@@ -1,5 +1,3 @@
-# Guess-the-Number-Game
-
 import random
 
 def get_user_guess():
